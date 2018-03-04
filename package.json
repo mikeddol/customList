@@ -1,8 +1,9 @@
 {
   "name": "ts-list",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Custom immutable list",
+  "license": "MIT",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "test": "jest"
